@@ -1,1 +1,2 @@
-# fwdsdf1as32dc0as23c0asd32cd01s3d2c01asd32c1dsa32c13asd32c13asd2c1das32c0asd32c0a
+# Tutorial-Bot
+This is the bot we're creating in the video series, each branch is an episode number.
